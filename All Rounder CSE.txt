@@ -1,0 +1,51 @@
+## Full Stack ##
+
+1)Frontend - HTML,CSS,JS,React/Angular 
+
+2)Backend - Java, Spring Boot, Hibernate
+
+3)Databases - MySQL, MongoDB
+
+## DSA ##
+
+1)Arrays
+
+2)Trees
+
+3)Graphs
+
+4)Sorting 
+
+5)Dynamic Programming 
+
+--- On Leetcode ---
+
+## System Design ##
+
+1)Load Balancing
+
+2)Caching
+
+3)Design Scallable apps like Netflix, Uber
+
+## DevOps ##
+
+1)Master Docker 
+
+2)Kubernetes
+
+3)AWS
+
+4)CI/CD Pipelines
+
+5)Monitoring Tools
+
+## CS Fundamentals ##
+
+1)OS
+
+2)DB Concepts
+
+3)Networking
+
+4)OOP Principles
