@@ -1,0 +1,35 @@
+Pandas
+data manipulation and analysis library
+top of numpy
+
+(i)Series 
+(ii)Dataframe
+
+Data cleaning,transformation, aggregation merging and joining of datasets
+
+//Series
+Labelled 1d array can hold any type of data 
+series() - convert a list... into series
+
+//Dataframe
+
+2d data structure like table corresponding label is dataframe
+spreadsheets in excel or sql tables
+
+import pandas as pd # pd is alias 
+df = pd.read_csv('data.csv')  //read_excel , read_json
+
+df.head() //Data Inspection - head can be used to have look on data head() gives first five row od data initial 5 can be any no
+
+df.head(10)
+df.tail() // gives last 5 initially or any no
+
+
+
+df.describe() // Data is described to summary statstics
+
+//Selecting columns and rows
+df['Name'] 
+df.loc[0]  // Select first row
+
+
